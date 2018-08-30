@@ -31,7 +31,7 @@ Futher plans include teaching how to use responsive web design frameworks like B
 * Definition Lists
 * Block Quotes
 * Horizontal Rules
-* Text Formatting (italics,bold,emphasis,small)
+* Text Formatting (italics,bold,emphasis,small, strike-out)
 * divs
 * articles
 * specialized tags , ie facebook or pinterest

@@ -8,6 +8,7 @@ Futher plans include teaching how to use responsive web design frameworks like B
 # Lesson 1 
 ### HTML / CSS Introduction
 * What is HTML / CSS / Javascript
+* Briefly describe mobile first development
 * Structure and Tags
 * Paragraphs, Headings, and Lists
 #### Presentation: WIP
@@ -44,4 +45,9 @@ Futher plans include teaching how to use responsive web design frameworks like B
 * changing fonts
 
 # Javascript topics to teach
-* onclick()
+* Functions
+* Events
+* alert()
+* onclick
+* onblur
+* changing DOM with events

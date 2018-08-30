@@ -10,8 +10,8 @@ Futher plans include teaching how to use responsive web design frameworks like B
 * What is HTML / CSS / Javascript
 * Structure and Tags
 * Paragraphs, Headings, and Lists
-Presentation: WIP
-Pen 1: WIP
+#### Presentation: WIP
+#### Pen 1: WIP
 ---
 
 # Lesson 2 
@@ -19,6 +19,29 @@ Pen 1: WIP
 * Topic 1
 * Topic 2
 * Topic 3
-Presentation: WIP
-Pen 1: WIP
+#### Presentation: WIP
+#### Pen 1: WIP
 ---
+
+
+# HTML Topics to teach
+* Links
+* Images
+* Tables
+* Definition Lists
+* Block Quotes
+* Horizontal Rules
+* Text Formatting (italics,bold,emphasis,small)
+* divs
+* articles
+* specialized tags , ie facebook or pinterest
+* browser specific tags overview
+* Copyright do's and don'ts
+
+# CSS Topics to teach
+* id
+* class
+* changing fonts
+
+# Javascript topics to teach
+* onclick()
